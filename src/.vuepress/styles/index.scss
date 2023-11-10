@@ -1,0 +1,23 @@
+// place your custom styles here
+
+// 文章图片
+.theme-hope-content img {
+  // 图片上浮 + 阴影
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  // 图片居中
+  display: block;
+  margin: 0 auto;
+  // 图片圆角
+  border-radius: 8px;
+}
+
+// 表格样式
+table {
+  font-size: .9rem;
+}
+
+// 引用块
+blockquote {
+  border-color: rgb(48,107,210);
+  background: rgb(242, 246, 255);
+}
